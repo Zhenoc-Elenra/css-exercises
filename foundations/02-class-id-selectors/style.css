@@ -3,6 +3,10 @@
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
 
+.third-format {
+    font-size: 24px;
+}
+
 #second-ID {
     color: rgb(17, 17, 228);
     font-size: 36px;
