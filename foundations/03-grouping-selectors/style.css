@@ -3,3 +3,7 @@
     color: rgb(255, 255, 255);
     font-weight: bold;
 }
+
+.right-button {
+    background-color: rgb(255, 255, 0);
+}
